@@ -25,6 +25,9 @@ function App() {
 
       <article>
         Добавление   ARTICLE
+          <div className="body">
+              Content
+          </div>
       </article>
 
 
