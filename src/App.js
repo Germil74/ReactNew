@@ -11,6 +11,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> React готов к работе
         </p>
+        <h1> Мзменения !!!!!!!!</h1>
         <a
           className="App-link"
           href="https://reactjs.org"
