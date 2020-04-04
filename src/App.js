@@ -32,6 +32,7 @@ function App() {
 
 
       </main>
+        <footer> Добавил Footer </footer>
     </div>
   );
 }
