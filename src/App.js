@@ -21,6 +21,7 @@ function App() {
           Learn React
         </a>
       </header>
+      <main> Добавление Main</main>
     </div>
   );
 }
