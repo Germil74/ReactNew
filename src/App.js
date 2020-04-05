@@ -28,6 +28,7 @@ function App() {
         Добавление   ARTICLE
           <div className="body">
               Content
+			  <Contacts />
           </div>
       </article>
 
